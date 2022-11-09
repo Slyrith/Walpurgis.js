@@ -1,0 +1,26 @@
+{
+  "name": "Walpurgis.js",
+  "version": "1.0",
+  "description": "Aoi.js Plugin Extensions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord.js",
+    "aoi.js"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "ansi-colors": "^4.1.3",
+    "aoi.js": "^5.5.5",
+    "chalk": "^5.1.2",
+    "cli-table": "^0.3.11",
+    "es": "^0.8.0",
+    "esm": "^3.2.25",
+    "node-fetch": "^3.2.6",
+    "table": "^6.8.1"
+  }
+}
