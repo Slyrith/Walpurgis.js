@@ -1,6 +1,6 @@
 module.exports = {
     client.functionManager.createCustomFunction({
-      name: '$liyaAvatar',
+      name: '$liya'
       type: 'djs',
       code: async d => {
     let data = d.util.aoiFunc(d);
